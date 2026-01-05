@@ -1,0 +1,39 @@
+{
+  "name": "prince-buttons",
+  "version": "1.0.0",
+  "description": "Professional WhatsApp button generator for Baileys - Simple, elegant, and powerful",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js",
+    "example": "node examples/basic.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-bot",
+    "baileys",
+    "buttons",
+    "interactive",
+    "whatsapp-buttons",
+    "prince-tech",
+    "prince-buttons",
+    "whatsapp-api"
+  ],
+  "author": "Prince Tech <support@princetechn.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayelprince/prince-buttons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mayelprince/prince-buttons/issues"
+  },
+  "homepage": "https://github.com/Mayelprince/prince-buttons#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}
